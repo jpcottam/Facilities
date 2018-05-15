@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Facilities - Home Page</title>
+</head>
+
+<body>
+<header>
+<a href="about.html">About
+Facilities
+<a href="team.html">The team</a>
+</header>
+</html>
