@@ -1,2 +1,4 @@
 # Facilities
-Facilities repository
+Hi,
+
+First attempt at coding, repository for Facilities dept
